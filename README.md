@@ -1,6 +1,9 @@
 # Description
 Sudoku setter (like f-puzzles or sudokupad) but in terminal. Main library is FTXUI. Project is compiled on C++ 20, functionality on older versions is not guaranteed
 
+## Requirements
+- FTXUI 6.0.2
+
 ## Build
 ```bash
 mkdir testing_ui/build
